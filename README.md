@@ -1,2 +1,2 @@
 # Monte-Carlo-Simulator
-The Monte Carlo Simulator is a visual graph that calculates the value of PI. 
+The Monte Carlo Simulator is a visual graph that calculates the value of PI. The program is created as a TkInter GUI and displays the graph, configuration settings, buttons and output. The calculations are based on the x and y values of points displayed on a circular graph. The color of the dots can be chosen with a dropdown widget and they are based on whether they land within the circle or outside of it. The numbers of points can be adjusted with a slider widget. The animation of the points can be adjusted with a button widget. Lastly, the calculated number for PI will display at the end of the animation.
